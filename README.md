@@ -8,7 +8,8 @@ The services and portfolio sections use Bootstrap cards to display information i
 The footer features social media icons that are styled with font awesome, and I included a copyright symbol to give more professional look.
 Overall, I'm really proud of how the site turned out, and I can't wait to see what projects I'll build next!"
 
-.....................................................................................................................................................................................................................
+......................................................................................................................................................................................................................
+
 
 #Task-2 : Calculator
 

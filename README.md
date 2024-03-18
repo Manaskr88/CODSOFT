@@ -16,3 +16,12 @@ Overall, I'm really proud of how the site turned out, and I can't wait to see wh
 I am thrilled to share my latest project from a recent internship - a GUI-based simple calculator built using HTML, CSS.
 This calculator features a sleek design and user-friendly interface. I had a great time working on this project and learned a lot about web development and user experience design. I am grateful for the opportunity to apply my skills in a real-world setting and improve my problem-solving, communication, and project management abilities. 
 This calculator is a great example of my ability to work independently and collaboratively, and I am looking forward to continuing to grow and learn in my career
+
+.......................................................................................................................................................................................................................
+
+#Task-3: Landing Page 
+
+I am thrilled to share that i  created Coca-Cola landing page using HTML and CSS.
+To start, I created the navbar with a logo and menu items using HTML and CSS. I used Flexbox to align the menu items side by side and made sure the logo was prominent.
+Next, I designed the hero section with a background video, a short description.
+Overall, creating a Coca-Cola landing page with HTML and CSS was an exciting and rewarding experience.
